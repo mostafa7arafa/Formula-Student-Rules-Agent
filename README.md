@@ -142,5 +142,5 @@ This project was created using Flowise, a no-code platform for building LangChai
 ### Setup Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Formula-Student-Rules.git
-   cd Formula-Student-Rules
+   git clone https://github.com/yourusername/Formula-Student-Rules-Agent.git
+   cd Formula-Student-Rules-Agent
